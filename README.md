@@ -76,7 +76,6 @@ numpy
 
 rich
 
-(Add requirements.txt if not already created.)
 
 # 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -84,7 +83,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # 🤝 Contributing
 Pull requests and collaborations are welcome! Please open an issue to discuss your proposed changes before submitting a PR.
 
-Let me know if you'd like a version with badges (e.g. PyTorch, license, etc.) or additional setup instructions for the src/ folder.
 # PyTorch Sarcastic News Headline Detector
 Notebook uses a custom pyTorch training/validation loop modifying a foundational LLM (BERT) to detect sarcastic news headlines. This represents a NLP classification task.
 
